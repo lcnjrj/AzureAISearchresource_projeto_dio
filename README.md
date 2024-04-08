@@ -46,6 +46,19 @@ In the Azure Storage account you created, in the left-hand menu pane, select Con
 Change the setting for Allow Blob anonymous access to Enabled and then select Save.
 
 
+
+
+
+
+
+
+
+
+
+Search explorer json
+
+
+ 
 {
  "search": "locations:'Chicago'",
  "count": true
